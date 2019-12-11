@@ -25,6 +25,7 @@ public class program20 {
 		if (str.length() % 2 != 0) {
 			System.out.println(str.substring(str.length() - 1));
 
+// git testing
 		}
 	}
 }
